@@ -1,4 +1,4 @@
-# Queues: Queue Data Structure Implementation
+# Queues-DSA: Queue Data Structure Implementation
 
 A fundamental **Java implementation of Queue data structure** demonstrating **FIFO (First-In-First-Out)** principle with basic operations including enqueue, dequeue, and utility methods. This educational repository showcases core queue operations with a linear array-based implementation.
 
@@ -15,7 +15,7 @@ This repository implements a classic **Linear Queue** data structure, one of the
 ## Repository Structure
 
 ```
-Queues/
+Queues-DSA/
 ├── QueuesTest.java   # Queue class implementation + test cases
 ├── README.md         # This file
 └── .git/             # Git version control
